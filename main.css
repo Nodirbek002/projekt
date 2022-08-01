@@ -54,3 +54,48 @@ header .logo h1{
  .nav ul li .active{
     color: #E0FF65;
 }
+.older h1{
+    font-family: 'Encode Sans';
+    font-weight: 400;
+    font-size: 80px;
+    font-style: normal;
+    color: #E0FF65;
+    line-height: 100px;
+    margin-top: 50px;
+}
+.logo-1{
+    font-family: 'Encode Sans';
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    color: white;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.matn{
+    width: 727px;
+    left: 143px;
+    top: 755px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 30px;
+    color: white;
+    margin-top: 20px;
+}
+.btn-1{
+    background: #E0FF65;
+    border-radius: 10px;
+    /* width: 100px; */
+    padding: 10px 30px;
+    margin-top: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    display: inline-block;
+    /* line-height: 48px; */
+    color: black;
+}
+
